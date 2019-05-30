@@ -20,13 +20,13 @@
 
 ◆잔향의 테러 (pv 제2탄), MAPPA 제작
 
-◆장난을 잘치는 타카기양 (pv 제1탄), SHIN-EI 애니메이션 제작
-
 ◆진격의 거인 (pv), WIT STUDIO 제작
 
 ◆페이트 그랜드 오더 (공의 경계 콜라보 이벤트 pv), ufotable 제작 
 
 
-
-
 (원펀맨 편집용 426은 오류로 인해 삭제하였다.)
+
+우리는 Data Used에서 얻은 각 장면들을 jpg 파일로 전환하였다. 이 작업을 하기 위해 DVDVideoSoft의 Free Video to JPG Converter이라는 프로그램을 사용하였으며, 각 파일을 1프레임마다 jpg로 변형하였다.
+
+파일의 크기가 너무 커, 압축한 다음 구글 드라이브로 올렸다. 그 파일은 다음 링크를 통해 얻을 수 있다: https://drive.google.com/file/d/1HLLspLyAgjLWXvMaKC7PUZLXXGZy5AYU/view?usp=sharing
