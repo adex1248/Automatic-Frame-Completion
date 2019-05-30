@@ -28,8 +28,11 @@
 (원펀맨 편집용 426은 오류로 인해 삭제하였다.)
 (편집용 329~353은 <장난을 잘 치는 타카기양 (pv), 신에이 동화 제작>이었으나, 크기가 다르게 저장되어 데이터베이스에서 제외하였다.)
 
-이 폴더 내의 파일들은 Daum PotEncoder를 이용하여, 위 영상들을 각 scene마다 수작업으로 자른 것들이다.
+이 폴더 내의 파일들은 Windows Movie Maker를 이용하여, 위 영상들을 각 scene마다 수작업으로 자른 것들이다.
 
 우리는 이 Data_by_Scene의 각 장면들을 jpg 파일로 전환하였다. 이 작업을 하기 위해 DVDVideoSoft의 Free Video to JPG Converter이라는 프로그램을 사용하였으며, 각 파일을 1프레임마다 jpg로 변형하였다.
 
 파일의 크기가 너무 커, 압축한 다음 구글 드라이브로 올렸다. 그 파일은 다음 링크를 통해 얻을 수 있다: https://drive.google.com/file/d/1HLLspLyAgjLWXvMaKC7PUZLXXGZy5AYU/view?usp=sharing
+
+
+위의 파일들은 480 * 854 크기인데, 이는 연구를 진행하기에 너무 컸다. 따라서, 우리는 Daum PotEncoder를 이용하여 120 * 214 크기로 줄여 진행하였다.
