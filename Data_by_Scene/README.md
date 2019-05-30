@@ -2,7 +2,7 @@
 
 ◆공의 경계 (제3장 통각잔류 중의 장면), ufotable 제작
 
-◆너의 이름은 (teaser 예고편 pv), 코믹스웨이브
+◆너의 이름은 (teaser 예고편 pv), 코믹스웨이브 제작
 
 ◆문호 스트레이 독스 (pv), 본즈 제작 
 
@@ -10,7 +10,7 @@
 
 ◆빈란드 사가 (pv), WIT STUDIO 제작
 
-◆언어의 정원 (예고편 pv), Comix Wave Films 제작
+◆언어의 정원 (예고편 pv), 코믹스웨이브 제작
 
 ◆One Punch Man (pv 제2탄), Mad House 제작
 
